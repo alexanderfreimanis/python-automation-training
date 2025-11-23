@@ -50,12 +50,18 @@ This repository contains my training materials and practice projects for transit
 
  - git add README.md
 
- - git add . 
+ - git add .
 
-&nbsp;- git commit
+ - git commit
 
 * git commit -m "m used for comments"
-* 
+* git log
+* git checkout
+* git push origin 
+* git switch main
+* git pull origin master
+* git branch
+* git checkout name\_of\_brunch
 
 
 
