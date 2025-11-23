@@ -42,29 +42,111 @@ This repository contains my training materials and practice projects for transit
 
 
 
- - git config --global user.name "afreimanis" user.email "aleksandrs.freimanis@icloud.com"
+\## 🧠 Git Commands 
 
- - git init
 
- - git clone
 
- - git add README.md
+\### 🏁 Initial Setup
 
- - git add .
+| Command | Description |
 
- - git commit
+|--------|-------------|
 
-* git commit -m "m used for comments"
-* git log
-* git checkout
-* git push origin
-* git switch main
-* git pull origin master
-* git branch
-* git checkout name\_of\_brunch
-* git checkout master 
-* git merge
-* 
+| `git config --global user.name "afreimanis"` | Set username for all repos |
+
+| `git config --global user.email "aleksandrs.freimanis@icloud.com"` | Set email for all commits |
+
+
+
+---
+
+
+
+\### 📌 Create or Download Repository
+
+| Command | Description |
+
+|--------|-------------|
+
+| `git init` | Create a new git repository |
+
+| `git clone <repo-url>` | Download a repository from GitHub |
+
+
+
+---
+
+
+
+\### 🏗️ Staging Changes
+
+| Command | Description |
+
+|--------|-------------|
+
+| `git add README.md` | Stage a specific file |
+
+| `git add .` | Stage all changes in the folder |
+
+
+
+---
+
+
+
+\### 📝 Committing Changes
+
+| Command | Description |
+
+|--------|-------------|
+
+| `git commit` | Commit staged changes |
+
+| `git commit -m "your message"` | Commit with a message |
+
+| `git log` | Show commit history |
+
+
+
+---
+
+
+
+\### 🌿 Branching \& Navigation
+
+| Command | Description |
+
+|--------|-------------|
+
+| `git branch` | List existing branches |
+
+| `git checkout <branch-name>` | Switch to a branch |
+
+| `git checkout -b <branch-name>` | Create a new branch \& switch to it |
+
+| `git switch main` | Switch to main branch (newer command) |
+
+| `git checkout master` | Switch to master branch (older naming) |
+
+
+
+---
+
+
+
+\### 🔄 Syncing with Remote
+
+| Command | Description |
+
+|--------|-------------|
+
+| `git push origin <branch-name>` | Push local commits to GitHub |
+
+| `git pull origin <branch-name>` | Pull latest changes from GitHub |
+
+
+
+Example:
 
 
 
