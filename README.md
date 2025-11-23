@@ -1,5 +1,19 @@
 \# HFM Python Automation Training
 
+Action Items for Automation QA Transition
+
+- [x] Pass Python PCAP Exam
+
+- [ ] Practice Selenium Testing with Python
+
+- [ ] Practice Git Operations
+  - [ ] Play around in https://learngitbranching.js.org/
+  - [x] Create account on github.com
+  - [x] Create a dummy repository
+
+- [ ] Practice and understand all commands in the git cheat sheet
+
+
 
 ## 🧠 Git Commands
 
