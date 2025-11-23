@@ -38,3 +38,26 @@ This repository contains my training materials and practice projects for transit
 
 
 
+\## Git Commands
+
+
+
+ - git config --global user.name "afreimanis" user.email "aleksandrs.freimanis@icloud.com"
+
+ - git init
+
+ - git clone
+
+ - git add README.md
+
+ - git add . 
+
+&nbsp;- git commit
+
+* git commit -m "m used for comments"
+* 
+
+
+
+ 
+
